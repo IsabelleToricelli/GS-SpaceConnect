@@ -1,0 +1,82 @@
+﻿[
+  {
+    "Cenario": "Seca Extrema e Alta Insolação",
+    "Regiao": "Nordeste",
+    "TemperaturaMin": 30.0,
+    "TemperaturaMax": 50.0,
+    "UmidadeMin": 0.0,
+    "UmidadeMax": 30.0,
+    "LuminosidadeMin": 35000.0,
+    "Recomendacao": "ALERTA CRÍTICO: Clima de semiárido extremo detectado. Risco alto de morte celular por desidratação. Ativar irrigação por gotejamento contínuo e estender 100% das telas de sombreamento (toldos refletores) imediatamente."
+  },
+  {
+    "Cenario": "Noite Seca de Inverno",
+    "Regiao": "Nordeste",
+    "TemperaturaMin": 18.0,
+    "TemperaturaMax": 25.0,
+    "UmidadeMin": 10.0,
+    "UmidadeMax": 40.0,
+    "LuminosidadeMin": 0.0,
+    "Recomendacao": "AVISO: Temperatura amena, mas a umidade do ar está abaixo do ideal para o período noturno. Ativar sistema de nebulização intermitente por 15 minutos a cada hora para recuperar a umidade foliar."
+  },
+  {
+    "Cenario": "Condições Ideais de Cultivo (Nordeste)",
+    "Regiao": "Nordeste",
+    "TemperaturaMin": 24.0,
+    "TemperaturaMax": 32.0,
+    "UmidadeMin": 50.0,
+    "UmidadeMax": 70.0,
+    "LuminosidadeMin": 10000.0,
+    "Recomendacao": "SISTEMA ESTÁVEL: Parâmetros Excelentes para o ecossistema local. Manter rotina de irrigação automatizada programada e monitoramento de nutrientes via solo."
+  },
+  {
+    "Cenario": "Clima Tropical Perfeito (Sudeste)",
+    "Regiao": "Sudeste",
+    "TemperaturaMin": 20.0,
+    "TemperaturaMax": 28.0,
+    "UmidadeMin": 60.0,
+    "UmidadeMax": 80.0,
+    "LuminosidadeMin": 8000.0,
+    "Recomendacao": "SISTEMA ESTÁVEL: Clima ideal para estufas da região Sudeste. Fotossíntese operando em taxa máxima. Nenhuma intervenção corretiva é necessária."
+  },
+  {
+    "Cenario": "Frio Intenso e Risco de Geada",
+    "Regiao": "Sudeste",
+    "TemperaturaMin": -5.0,
+    "TemperaturaMax": 12.0,
+    "UmidadeMin": 40.0,
+    "UmidadeMax": 95.0,
+    "LuminosidadeMin": 0.0,
+    "Recomendacao": "ALERTA DE GEADA: Temperatura crítica detectada. Ligar imediatamente os aquecedores elétricos da estufa e fechar todas as barreiras de vento laterais para evitar o congelamento das folhas."
+  },
+  {
+    "Cenario": "Excesso de Umidade e Risco de Fungos",
+    "Regiao": "Sudeste",
+    "TemperaturaMin": 18.0,
+    "TemperaturaMax": 30.0,
+    "UmidadeMin": 85.0,
+    "UmidadeMax": 100.0,
+    "LuminosidadeMin": 1000.0,
+    "Recomendacao": "AVISO: Ambiente saturado de vapor d'água com baixa luminosidade (possível dia de tempestade). Risco iminente de proliferação de fungos (míldio/oídio). Ligar exaustores de ar e suspender qualquer ciclo de irrigação nas próximas 6 horas."
+  },
+  {
+    "Cenario": "Anomalia: Apagão / Falha de Iluminação",
+    "Regiao": "Sudeste",
+    "TemperaturaMin": 15.0,
+    "TemperaturaMax": 35.0,
+    "UmidadeMin": 30.0,
+    "UmidadeMax": 85.0,
+    "LuminosidadeMin": 0.0,
+    "Recomendacao": "ALERTA DE INFRAESTRUTURA: Luminosidade zerada detectada durante horário operacional esperado. Se for dia, verifique se houve quebra na cobertura da estufa ou pane nos sensores de luz. Ativar iluminação artificial de emergência (LEDs Grow)."
+  },
+  {
+    "Cenario": "Anomalia: Falha de Iluminação (Nordeste)",
+    "Regiao": "Nordeste",
+    "TemperaturaMin": 15.0,
+    "TemperaturaMax": 45.0,
+    "UmidadeMin": 10.0,
+    "UmidadeMax": 85.0,
+    "LuminosidadeMin": 0.0,
+    "Recomendacao": "ALERTA DE INFRAESTRUTURA: Sensor registrando ausência total de luz. Verificar se o painel solar ou o sensor está obstruído por poeira/areia trazida pelo vento ou se há falha elétrica na rede."
+  }
+]
