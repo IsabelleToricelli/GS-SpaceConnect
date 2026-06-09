@@ -30,7 +30,9 @@ Este projeto está diretamente alinhado com a **ODS 2: Fome Zero e Agricultura S
 
 ## Integrantes do Grupo
 **Gilson Dias Ramos Junior** - RM552345
+
 **Isabelle Toricelli da Silva** - RM552806
+
 **Jeferson Gabriel de Mendonça** - RM553149
 
 ---
